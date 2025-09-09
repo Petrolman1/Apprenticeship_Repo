@@ -1,1 +1,1 @@
-This is a dummy readme for apprenticeship contnet
+This is a dummy readme for apprenticeship content
